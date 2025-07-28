@@ -1,0 +1,278 @@
+{
+  "query": "top gaming headsets",
+  "total_products": 10,
+  "products": [
+    {
+      "rank": 1,
+      "name": "TSV Gaming Headset",
+      "price": null,
+      "rating": "2.7",
+      "reviews_count": "35 user reviews",
+      "links": [
+        {
+          "url": "https://www.walmart.com/ip/TSV-Gaming-Headset-Fit-PC-PS4-PS5-Xbox-One-Nintendo-Switch-Headphones-Microphone-Noise-Cancelling-Stereo-Surround-Bass-3-5mm-Over-Ear-Wired-Laptop-De/289442792?wmlspartner=wlpa&selectedSellerId=2961&selectedOfferId=4765BA4D89554AD3AACB79C258D3614B&conditionGroupCode=1&gQT=1",
+          "price": "$10.79",
+          "store": "Walmart - WOWParts",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Turtle Beach Recon Spark Gaming Headset",
+      "price": null,
+      "rating": "4.1",
+      "reviews_count": "704 user reviews",
+      "links": [
+        {
+          "url": "https://www.turtlebeach.com/products/recon-spark-headset?Title=Default+Title&srsltid=AfmBOopZlZwSLU3-973cnM1WGMSf1Jd05YS6j252NiFoneF8SThBUgJU2gs&gQT=1",
+          "price": "$39.99",
+          "store": "Turtle Beach",
+          "rating": "4.1/5"
+        },
+        {
+          "url": "https://www.target.com/p/turtle-beach-recon-spark-wired-gaming-headset-for-nintendo-switch-xbox-one-series-x-s-playstation-4-5-white-purple/-/A-76439771?sid=1264S&afid=google&TCID=OGS&CPNG=Electronics&adgroup=207-0&gStoreCode=1264S&gQT=1",
+          "price": "$34.99",
+          "store": "Target",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.walmart.com/ip/Turtle-Beach-Recon-Spark-Multiplatform-Gaming-Headset-for-Xbox-Series-X-S-Xbox-One-PS5-PS4-Nintendo-Switch-PC-White-Lavender/993625029?wmlspartner=wlpa&selectedSellerId=102537663&selectedOfferId=28DA5213648A3B3D8165CCB78990A5C9&conditionGroupCode=1&gQT=1",
+          "price": "$39.99",
+          "store": "Walmart - Turtle Beach Gaming",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Logitech G733 Lightspeed Wireless Gaming Headset",
+      "price": null,
+      "rating": "4.6",
+      "reviews_count": "6.3K user reviews",
+      "links": [
+        {
+          "url": "https://www.bestbuy.com/site/logitech-g733-lightspeed-wireless-gaming-headset-for-ps4-pc-white/6420859.p?skuId=6420859&ref=212&loc=1&utm_source=feed&extStoreId=467&gStoreCode=467&gQT=1",
+          "price": "$159.99",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.officedepot.com/a/products/8076629/Logitech-G733-Lightspeed-Wireless-RGB-Gaming/?utm_source=google&utm_medium=sag&srsltid=AfmBOooMmRg5RXtoWIxO3Xy07l5Y6du1ZAsG5q7koQp9SMbe9xG5qihHHxw&gQT=1",
+          "price": "$159.99",
+          "store": "Office Depot",
+          "rating": "4.5/5"
+        },
+        {
+          "url": "https://www.microcenter.com/product/626225/G733_LIGHTSPEED_Wireless_RGB_Gaming_Headset_w-_Suspension_Headband;_On_Ear_Controls,_Memory_Foam_Ear_Pads_-_White?storeID=171&gStoreCode=171&gQT=1",
+          "price": "$159.99",
+          "store": "Micro Center",
+          "rating": "4.9/5"
+        },
+        {
+          "url": "https://www.macys.com/shop/product/logitech-g733-lightspeed-wireless-rgb-gaming-headset?ID=16478051&pla_country=US&CAGPSPN=pla&gQT=1",
+          "price": "$171.95",
+          "store": "Macy's",
+          "rating": "4.4/5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Corsair Virtuoso RGB Wireless XT Gaming Headset",
+      "price": null,
+      "rating": "4.2",
+      "reviews_count": "1.3K user reviews",
+      "links": [
+        {
+          "url": "https://www.microcenter.com/product/640397/VIRTUOSO_RGB_WIRELESS_XT_High-Fidelity_Gaming_Headset_-_Slate?storeID=171&gStoreCode=171&gQT=1",
+          "price": "$279.99",
+          "store": "Micro Center",
+          "rating": "4.9/5"
+        },
+        {
+          "url": "https://www.corsair.com/us/en/p/gaming-headsets/CA-9011188-NA/virtuoso-rgb-wireless-xt-high-fidelity-gaming-headset-slate-ca-9011188-na?srsltid=AfmBOoqk3WnH6cU4pvzuxdqQIXx_pU5F-che8UXsoQLvx22z88sUtR7xjRQ&gQT=1",
+          "price": "$279.99",
+          "store": "Corsair.com",
+          "rating": "4.5/5"
+        },
+        {
+          "url": "https://www.bestbuy.com/site/corsair-virtuoso-xt-wireless-gaming-headset-for-pc-mac-ps5-ps4-and-mobile-slate/6458875.p?skuId=6458875&ref=212&loc=1&utm_source=feed&extStoreId=1217&gStoreCode=1217&gQT=1",
+          "price": "$279.99",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Razer Barracuda X Gaming Headset Wireless",
+      "price": null,
+      "rating": "4.4",
+      "reviews_count": "4.3K user reviews",
+      "links": [
+        {
+          "url": "https://www.razer.com/gaming-headsets/razer-barracuda-x/RZ04-04430200-R3U1?srsltid=AfmBOor27gA7EIEyBo_jwBuPLx84RjcFQ79gKHq5IjbvdxooN5UUdkiAnPA&gQT=1",
+          "price": "$99.99",
+          "store": "Razer.com",
+          "rating": "4.2/5"
+        },
+        {
+          "url": "https://www.microcenter.com/product/648824/Barracuda_X_Wireless_Multi-platform_Gaming_and_Mobile_Headset_-_Mercury_2022?storeID=171&gStoreCode=171&gQT=1",
+          "price": "$99.99",
+          "store": "Micro Center",
+          "rating": "4.9/5"
+        },
+        {
+          "url": "https://www.bestbuy.com/site/razer-barracuda-x-2022-edition-wireless-gaming-headset-for-pc-mac-playstation-switch-steam-deck-mobile-and-tablet-mercury/6502763.p?skuId=6502763&gQT=1",
+          "price": "$99.99",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "SteelSeries Arctis Pro Wireless Gaming Headset",
+      "price": null,
+      "rating": "4.3",
+      "reviews_count": "1.6K user reviews",
+      "links": [
+        {
+          "url": "https://steelseries.com/gaming-headsets/arctis-pro?color=black&connectivityType=wireless&hasGameDAC=false&srsltid=AfmBOoqGn-JOly2chfZO8CBVKLNFWcH6tn0BxcyJhzPpKrq5jz1DZ4s7TjU&gQT=1",
+          "price": "$194.99",
+          "store": "SteelSeries",
+          "rating": "4.0/5"
+        },
+        {
+          "url": "https://www.bestbuy.com/site/steelseries-arctis-pro-wireless-dts-headphonex-v2-0-surround-sound-gaming-headset-for-ps4-and-pc-black/6595755.p?skuId=6595755&ref=212&loc=1&utm_source=feed&extStoreId=467&gStoreCode=467&gQT=1",
+          "price": "$279.99",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.walmart.com/ip/Steelseries-Arctis-Pro-Wireless-Gaming-Headset-Lossless-High-Fidelity-Wireless-Bluetooth-PlayStation-4-PC/670261571?wmlspartner=wlpa&selectedSellerId=8613&selectedOfferId=E5216D6E561E30AC9D9FE90F9AA14203&conditionGroupCode=1&gQT=1",
+          "price": "$179.97",
+          "store": "Walmart - Seller",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "JBL Quantum 100 Wired Over-Ear Gaming Headset",
+      "price": null,
+      "rating": "4.4",
+      "reviews_count": "2.3K user reviews",
+      "links": [
+        {
+          "url": "https://www.ebay.com/itm/146657776829?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorASN2fmMVSuwmDYqimlOtSDhjtajMlSOxN7EKgWRmdikyw1iUL-f0&gQT=1",
+          "price": "$24.99",
+          "store": "eBay - merchandiseoutletonline",
+          "rating": null
+        },
+        {
+          "url": "https://www.microcenter.com/product/621996/Quantum_100_Wired_Gaming_Headset;_Detachable_Microphone,_Memory_Foam_Ear_Cups_-_Black?storeID=171&gStoreCode=171&gQT=1",
+          "price": "$44.95",
+          "store": "Micro Center",
+          "rating": "4.9/5"
+        },
+        {
+          "url": "https://www.jbl.com/JBLQUANTUM100BLKAM.html?gQT=1",
+          "price": "$44.95",
+          "store": "JBL",
+          "rating": "4.5/5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Thrustmaster T.Flight U.S. Air Force Edition",
+      "price": null,
+      "rating": "4.5",
+      "reviews_count": "37 user reviews",
+      "links": [
+        {
+          "url": "https://www.walmart.com/ip/Thrustmaster-T-flight-Gaming-Headset-u-s-Air-Force-Edition/860846476?wmlspartner=wlpa&selectedSellerId=101052540&selectedOfferId=76C8A5C606B24AAB853C7B397F36DF33&conditionGroupCode=1&gQT=1",
+          "price": "$139.00",
+          "store": "Walmart - Techfamily",
+          "rating": null
+        },
+        {
+          "url": "https://eshop.thrustmaster.com/en_us/t-flight-u-s-air-force-edition-dts.html?srsltid=AfmBOor1nf16jPrrzbtBrEhj8jBp3uvTJ53yQ4tAjrwuBl-nf5pjLPn5Kkk&gQT=1",
+          "price": "$99.99",
+          "store": "Thrustmaster US eShop",
+          "rating": "4.2/5"
+        },
+        {
+          "url": "https://www.sportys.com/flight-simulator-headset.html?srsltid=AfmBOopY-QatVG8j2tjZtb6rKFOBpCCCm5gU-pTlRvKWRBxKhk61kC1boZc&gQT=1",
+          "price": "$99.99",
+          "store": "Sporty's Pilot Shop",
+          "rating": "4.6/5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "Oxs Storm G2 Wireless Gaming Headset",
+      "price": null,
+      "rating": "4.7",
+      "reviews_count": "31 user reviews",
+      "links": [
+        {
+          "url": "https://oxsaudio.com/products/oxs-storm-g2?variant=44151677255836&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooirLoXacSx3J55CKiyb8X-StPV0DEii7bxQj0qpmMMxMI9g_jyfYo&gPromoCode=G2Headset20&gQT=1",
+          "price": "$59.99",
+          "store": "OXS Audio",
+          "rating": null
+        },
+        {
+          "url": "https://www.walmart.com/ip/OXS-Storm-G2-Wireless-Gaming-Headsets-7-1-Virtual-Surround-Sound-3-EQ-Modes-2-4G-Low-Latency-50mm-Driver-40H-Playtime-RGB-Light-Bluetooth-5-3-Compati/15662163783?wmlspartner=wlpa&selectedSellerId=102750837&selectedOfferId=A241393A40E73257BC53CA602280F6AE&conditionGroupCode=1&gQT=1",
+          "price": "$99.99",
+          "store": "Walmart - OXS Audio",
+          "rating": null
+        },
+        {
+          "url": "https://www.ebay.com/itm/226851907047?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&gQT=1",
+          "price": "$99.02",
+          "store": "eBay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "HyperX Cloud Gaming Headset",
+      "price": null,
+      "rating": "4.1",
+      "reviews_count": "18 user reviews",
+      "links": [
+        {
+          "url": "https://www.microcenter.com/product/688913/Cloud_Wired_Gaming_Headset_-_Black-Blue?storeID=171&gStoreCode=171&gQT=1",
+          "price": "$49.99",
+          "store": "Micro Center",
+          "rating": "4.9/5"
+        },
+        {
+          "url": "https://www.target.com/p/hyperx-cloud-wired-gaming-headset-for-playstation-4-5/-/A-80173112?sid=1264S&afid=google&TCID=OGS&CPNG=Electronics&adgroup=207-0&gStoreCode=1264S&gQT=1",
+          "price": "$39.99",
+          "store": "Target",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://hyperx.com/products/hyperx-cloud-gaming-headset?variant=45937156096157&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOor8SPaaU3HaFEyiqfwRiXRbLUuuUkS0FvfpfGgb2fqc7Tv-f6UJSwM&gQT=1",
+          "price": "$59.99",
+          "store": "HyperX",
+          "rating": "4.3/5"
+        },
+        {
+          "url": "https://www.hp.com/us-en/shop/pdp/hyperx-cloud-gaming-headset-(black-blue)?gQT=1",
+          "price": "$59.99",
+          "store": "HP",
+          "rating": "4.5/5"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2025-07-28T00:36:30.539172+00:00",
+  "search_url": "https://www.google.com/search?tbm=shop&q=top+gaming+headsets"
+}

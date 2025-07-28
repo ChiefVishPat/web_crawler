@@ -1,0 +1,284 @@
+{
+  "query": "top rated smart phones of 2025",
+  "total_products": 10,
+  "products": [
+    {
+      "rank": 1,
+      "name": "Samsung Galaxy S25 Ultra",
+      "price": null,
+      "rating": "4.8",
+      "reviews_count": "44K user reviews",
+      "links": [
+        {
+          "url": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/buy/galaxy-s25-ultra-256gb-t-mobile-sm-s938uzkaxau/?gQT=1",
+          "price": "$1,299.99",
+          "store": "Samsung",
+          "rating": "4.5/5"
+        },
+        {
+          "url": "https://www.bestbuy.com/site/samsung-galaxy-s25-ultra-256gb-unlocked-titanium-black/6612723.p?skuId=6612723&contractId=unactivated&ref=212&loc=1&utm_source=feed&extStoreId=467&gStoreCode=467&gQT=1",
+          "price": "$1,299.99",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.t-mobile.com/cell-phone/samsung-galaxy-s25-ultra?sku=610214686725&srsltid=AfmBOoqyFiBBhvtOzI8PZ5Tx5zagtvD9hucwi07pY28JRChR8n4CwZue-n8&gQT=1",
+          "price": "$1,299.99",
+          "store": "T-Mobile",
+          "rating": "4.0/5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Motorola Moto g 2025",
+      "price": null,
+      "rating": "4.3",
+      "reviews_count": "295 user reviews",
+      "links": [
+        {
+          "url": "https://www.walmart.com/ip/ST-MOTOROLA-XT2513V-CDMA-LTE-GRAY-HANDSET-64GB-WALMART-POSA/14552506783?wl13=2916&selectedSellerId=0&wmlspartner=wlpa&gStoreCode=2916&gQT=1",
+          "price": "$39.88",
+          "store": "Walmart",
+          "rating": "4.3/5"
+        },
+        {
+          "url": "https://www.ebay.com/itm/127117786957?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&gQT=1",
+          "price": "$62.88",
+          "store": "eBay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Apple iPhone 16 Pro",
+      "price": null,
+      "rating": "4.6",
+      "reviews_count": "14K user reviews",
+      "links": [
+        {
+          "url": "https://www.apple.com/us/xc/product/MYMT3?cppart=BOOST_IPHONE16PRO&purchaseOption=cp&cid=aos-us-seo-pla-iphone&gStoreCode=R060&gQT=1",
+          "price": "$13.87",
+          "store": "Apple",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.bestbuy.com/site/apple-iphone-16-pro-1tb-apple-intelligence-natural-titanium-verizon/6443371.p?skuId=6443371&gQT=1",
+          "price": "$41.66",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.t-mobile.com/cell-phone/apple-iphone-16-pro?sku=195949770371&srsltid=AfmBOooXeYAkE7mYxJuTZI_8vKpFEyXLnBW8VSfzxrhoT2ZlA5qdFLv3hMA&gStoreCode=9724&gQT=1",
+          "price": "$1,499.99",
+          "store": "T-Mobile",
+          "rating": "4.0/5"
+        },
+        {
+          "url": "https://www.att.com/buy/phones/apple-iphone-16-pro-1tb-desert-titanium.html?source=E-g2s10000000000X&wtExtndSource=SWIS-iPhone&gStoreCode=48296&gQT=1",
+          "price": "$41.67",
+          "store": "AT&T",
+          "rating": "4.4/5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Motorola Edge 2025",
+      "price": null,
+      "rating": "4.2",
+      "reviews_count": "9 user reviews",
+      "links": [
+        {
+          "url": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-gen-6/pmipmhp40mv?pn=PB7A0006US&srsltid=AfmBOoo4ToyL1suBii7If38YqGMaiD63RojGcwHyLGxPa475TM4jbX1Vd5E&gQT=1",
+          "price": "$449.99",
+          "store": "Motorola - United States",
+          "rating": "3.6/5"
+        },
+        {
+          "url": "https://www.bestbuy.com/site/motorola-edge-2025-256gb-unlocked-pantone-deep-forest/6624976.p?skuId=6624976&contractId=unactivated&ref=212&loc=1&utm_source=feed&extStoreId=467&gStoreCode=467&gQT=1",
+          "price": "$549.99",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.ebay.com/itm/317080580268?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&gQT=1",
+          "price": "$194.48",
+          "store": "eBay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": null,
+      "rating": "4.7",
+      "reviews_count": "62K user reviews",
+      "links": [
+        {
+          "url": "https://www.bestbuy.com/site/samsung-galaxy-s24-ultra-256gb-titanium-black-verizon/6570354.p?skuId=6570354&gQT=1",
+          "price": "$36.11",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.verizon.com/smartphones/samsung-galaxy-s24-ultra/?sku=sku6010066&edgeTerm=36&gStoreCode=D230001&gQT=1",
+          "price": "$36.11",
+          "store": "Verizon",
+          "rating": "3.4/5"
+        },
+        {
+          "url": "https://www.att.com/buy/phones/samsung-galaxy-s24-ultra.html?source=E-g2s10000000000X&wtExtndSource=SWIS-Samsung&gStoreCode=115366&gQT=1",
+          "price": "$36.12",
+          "store": "AT&T",
+          "rating": "4.4/5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Motorola Moto G Power 2025",
+      "price": null,
+      "rating": "4.1",
+      "reviews_count": "255 user reviews",
+      "links": [
+        {
+          "url": "https://www.walmart.com/ip/ST-MOTOROLA-XT2515V-CDMA-LTE-GRAY-HANDSET-WALMART-POSA/14522924811?wl13=2916&selectedSellerId=0&wmlspartner=wlpa&gStoreCode=2916&gQT=1",
+          "price": "$149.00",
+          "store": "Walmart",
+          "rating": "4.3/5"
+        },
+        {
+          "url": "https://www.target.com/p/at-38-t-prepaid-motorola-2025-moto-g-power-5g-128gb/-/A-94642824?sid=1264S&afid=google&TCID=OGS&CPNG=Electronics&adgroup=80-2&gStoreCode=1264S&gQT=1",
+          "price": "$79.99",
+          "store": "Target",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.ebay.com/itm/126795846057?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&gQT=1",
+          "price": "$179.88",
+          "store": "eBay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Nothing Phone 3a 6.7",
+      "price": null,
+      "rating": "4.8",
+      "reviews_count": "571 user reviews",
+      "links": [
+        {
+          "url": "https://swiftronicsinc.com/products/nothing-phone-3a-dual-sim-factory-unlocked-5g?variant=51896258036078&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqGbA8Y1u32MJHklPpxn3zLLRmN8HGlRipHZidKCVg5jQrLH8swy8s&gQT=1",
+          "price": "$319.99",
+          "store": "Swiftronics USA",
+          "rating": null
+        },
+        {
+          "url": "https://myworldphone.com/products/nt-3a-5g-8-128-bk?variant=46962795512060&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopGwsO2uOOFFkxl-jZW37hscTs-eG6DriPY6QeqNjFNc_r47Uq7xk0&gStoreCode=6131706&gQT=1",
+          "price": "$379.99",
+          "store": "MyWorldPhone.com",
+          "rating": null
+        },
+        {
+          "url": "https://www.ebay.com/itm/205387165727?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoonYv4i7XDCWRYsJ3KpiBaQ2_CJpkyZZvblgO1odiv8emDo2Q60_yg&gQT=1",
+          "price": "$447.99",
+          "store": "eBay - soundsolutions_worldwide",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Samsung Galaxy S25 Edge",
+      "price": null,
+      "rating": "4.5",
+      "reviews_count": "1.3K user reviews",
+      "links": [
+        {
+          "url": "https://www.samsung.com/us/smartphones/galaxy-s25-edge/buy/galaxy-s25-edge-256gb-verizon-sku-sm-s937uzkavzw?gQT=1",
+          "price": "$949.99",
+          "store": "Samsung",
+          "rating": "4.5/5"
+        },
+        {
+          "url": "https://www.bestbuy.com/site/samsung-galaxy-s25-edge-256gb-unlocked-titanium-jet-black/6624970.p?skuId=6624970&contractId=unactivated&ref=212&loc=1&utm_source=feed&extStoreId=467&gStoreCode=467&gQT=1",
+          "price": "$1,099.99",
+          "store": "Best Buy",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://fi.google.com/about/phones/samsung-galaxy-s25-edge?srsltid=AfmBOor2c8gP98-oHisUnWvLmeGK9bHsCv5BgshyKqGl5s6IIcplCuOx-E4&gQT=1",
+          "price": "$799.99",
+          "store": "Google Fi Wireless",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "Apple iPhone 16e",
+      "price": null,
+      "rating": "4.5",
+      "reviews_count": "3.1K user reviews",
+      "links": [
+        {
+          "url": "https://www.backmarket.com/en-us/p/iphone-16e-128-gb-black-unlocked/7e0b0ace-6618-4b1c-8e8a-bc2617c4f812?shopping=gmc&srsltid=AfmBOooGpcaFhhk7L9RVha1Kn7w7mOZodmkTuQ-S770LqOHrjcJLucJJCLo&gQT=1",
+          "price": "$486.00",
+          "store": "Back Market",
+          "rating": "3.4/5"
+        },
+        {
+          "url": "https://www.apple.com/us/xc/product/MD0D4LL/A?cppart=UNLOCKED&cid=aos-us-seo-pla-iphone&gStoreCode=R060&gQT=1",
+          "price": "$599.00",
+          "store": "Apple",
+          "rating": "4.6/5"
+        },
+        {
+          "url": "https://www.t-mobile.com/cell-phone/apple-iphone-16e?sku=195950051629&srsltid=AfmBOoo_qCAdoUuPk8EuQ34yLHehR_jXY6KRcpkFG6wzmXLg8aaZTIkKpGs&gStoreCode=4SJO&gQT=1",
+          "price": "$599.99",
+          "store": "T-Mobile",
+          "rating": "4.0/5"
+        },
+        {
+          "url": "https://www.cricketwireless.com/shop/smartphones/apple-iphone-16e-128gb-black?utm_source=google&utm_medium=surfaces&utm_campaign=shopping+feed&utm_content=free+google+shopping+clicks&gQT=1",
+          "price": "$199.99",
+          "store": "Cricket Wireless",
+          "rating": "3.8/5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Google Pixel 9",
+      "price": null,
+      "rating": "4.6",
+      "reviews_count": "1.7K user reviews",
+      "links": [
+        {
+          "url": "https://store.google.com/us/config/pixel_9?sku=GA05844-US&srsltid=AfmBOoruRjQ1q336Q7NM3pRQzS2ubzYP8xt4-MAuyVLe2C1KycaMdwUlz5Q&gQT=1",
+          "price": "$899.00",
+          "store": "Google Store",
+          "rating": null
+        },
+        {
+          "url": "https://www.wirelessplace.com/products/google-pixel-9-new?variant=46186153115818&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooTteXIOWCzi3e1FQAFF7U4noPR5JGko04xrpM8OoOqAacZKIx3OwQ&gStoreCode=1&gQT=1",
+          "price": "$809.99",
+          "store": "Wireless Place",
+          "rating": null
+        },
+        {
+          "url": "https://www.cdw.com/product/google-pixel-9-android-smartphone-256-gb-wintergreen-gsm/8274139?cm_ven=acquirgy&cm_cat=google&cm_pla=NA-NA-Google_RF&cm_ite=8274139&gQT=1",
+          "price": "$949.99",
+          "store": "CDW",
+          "rating": "4.3/5"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2025-07-28T01:01:46.221466+00:00",
+  "search_url": "https://www.google.com/search?tbm=shop&q=top+rated+smart+phones+of+2025"
+}

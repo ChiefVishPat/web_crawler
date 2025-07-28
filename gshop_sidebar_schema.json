@@ -1,0 +1,52 @@
+{
+    "name": "Google-Shopping sidebar",
+    "baseSelector": "div.zxYWDc.q9kVJb",
+
+    "fields": [
+        {
+            "name": "product_title",
+            "selector": "[data-attrid='product_title']",
+            "type": "text",
+            "single": true
+        },
+
+        {
+            "name": "overall_rating",
+            "selector": "span[data-attrid='product_rating'] span.yi40Hd",
+            "type": "text",
+            "single": true
+        },
+
+        {
+            "name": "review_count",
+            "selector": "span[data-attrid='product_rating'] span.Bk5Fre",
+            "type": "text",
+            "single": true
+        },
+
+        {
+            "name": "merchants",
+            "type": "list",
+            "selector": "div.PshwNb",
+            "fields": [
+                { "name": "store", "selector": ".hP4iBf", "type": "text" },
+                {
+                    "name": "price",
+                    "selector": "[aria-label^='Current price']",
+                    "type": "text"
+                },
+                {
+                    "name": "href",
+                    "selector": "a",
+                    "type": "attribute",
+                    "attribute": "href"
+                },
+                {
+                    "name": "store_rating",
+                    "selector": "[aria-label^='Rated']",
+                    "type": "text"
+                }
+            ]
+        }
+    ]
+}
