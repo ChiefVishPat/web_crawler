@@ -5,6 +5,14 @@ The script leverages the crawl4ai library lets GPT‑4 generate a sidebar‑HTML
 
 ## Demo Video
 https://www.loom.com/share/d87f88f6918a48b2b121e1afcc40b761?sid=c79fd8be-d9a6-4a1a-87aa-2337cfe15b70
+<div>
+    <a href="https://www.loom.com/share/d87f88f6918a48b2b121e1afcc40b761">
+      <p>Automating Product Data Scraping from Google Shopping 🛍️ - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d87f88f6918a48b2b121e1afcc40b761">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d87f88f6918a48b2b121e1afcc40b761-1028778a17d3dbb5-full-play.gif">
+    </a>
+  </div>
 
 ## Quick start
 ```bash
