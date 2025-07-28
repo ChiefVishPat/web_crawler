@@ -88,7 +88,7 @@ def generate_sidebar_schema(sample_html: str, out_path: Path, *, force: bool = F
     else:
         schema = JsonCssExtractionStrategy.generate_schema(
             html=sample_html,
-            llm_config=LLMConfig(provider=LLM_MODEL, api_token=os.getenv("OPENAI_API_KEY")),
+            llm_config=LLMConfig(provider=LLM_MODEL, api_token=os.getenv("LLM_KEY")),
             query=(
                 "Extract the following:\n"
                 "• product_title  – text at data-attrid='product_title'\n"
@@ -219,8 +219,8 @@ def save_results(results: ShoppingResults, *, folder: Path = Path("scrapes")) ->
 
 # ── CLI ──────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
-    if "OPENAI_API_KEY" not in os.environ:
-        sys.exit("❌  Set OPENAI_API_KEY")
+    if "LLM_KEY" not in os.environ:
+        sys.exit("❌  Set LLM_KEY")
 
     # uncomment below to generate the schema into a json file. make sure to edit the baseSelector to be the correct root selector
     # generate_sidebar_schema(sample_html=SAMPLE_HTML, out_path=SCHEMA_PATH)

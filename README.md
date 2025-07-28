@@ -11,8 +11,8 @@ uv venv .venv
 # install runtime deps
 uv add crawl4ai pydantic
 
-# set your OpenAI key
-export OPENAI_API_KEY=""
+# set your LLM key
+export LLM_KEY=""
 ```
 
 ## Running
