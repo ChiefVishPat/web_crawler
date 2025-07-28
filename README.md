@@ -7,7 +7,6 @@ The script leverages the crawl4ai library lets GPT‑4 generate a sidebar‑HTML
 ```bash
 # create & activate a uv virtual‑env
 uv venv .venv
-source .venv/bin/activate
 
 # install runtime deps
 uv add crawl4ai pydantic
