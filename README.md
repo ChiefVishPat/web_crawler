@@ -3,6 +3,9 @@
 Fetch structured product data from Google Shopping with **one command**.  
 The script leverages the crawl4ai library lets GPT‑4 generate a sidebar‑HTML schema, and exports clean JSON.
 
+## Demo Video
+https://www.loom.com/share/d87f88f6918a48b2b121e1afcc40b761?sid=c79fd8be-d9a6-4a1a-87aa-2337cfe15b70
+
 ## Quick start
 ```bash
 # create & activate a uv virtual‑env
